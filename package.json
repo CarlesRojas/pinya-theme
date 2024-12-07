@@ -1,21 +1,21 @@
 {
-  "name": "pinya-theme",
-  "displayName": "Pinya Theme",
-  "description": "Sleek and minimalistic dark theme",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.95.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Pinya Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Pinya Theme-color-theme.json"
-      }
-    ]
-  }
+    "name": "pinya-theme",
+    "displayName": "Pinya Theme",
+    "description": "Sleek and minimalistic dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.95.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pinya Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pinya-color-theme.json"
+            }
+        ]
+    }
 }
