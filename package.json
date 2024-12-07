@@ -4,7 +4,7 @@
     "publisher": "pinya",
     "license": "MIT",
     "description": "Sleek and minimalistic dark theme",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "engines": {
         "vscode": "^1.43.0"
     },

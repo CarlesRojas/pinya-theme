@@ -542,7 +542,7 @@
             "name": "Variables",
             "scope": "variable",
             "settings": {
-                "foreground": "#e3e3e3"
+                "foreground": "#ababab"
             }
         },
         {
@@ -752,7 +752,7 @@
             "name": "Constants",
             "scope": "constant",
             "settings": {
-                "foreground": "#9FD356"
+                "foreground": "#FFBF69"
             }
         },
         {
