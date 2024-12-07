@@ -2,10 +2,15 @@
     "name": "pinya-theme",
     "displayName": "Pinya Theme",
     "publisher": "pinya",
+    "license": "MIT",
     "description": "Sleek and minimalistic dark theme",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "engines": {
-        "vscode": "^1.95.0"
+        "vscode": "^1.43.0"
+    },
+    "galleryBanner": {
+        "color": "#1b1f23",
+        "theme": "dark"
     },
     "categories": [
         "Themes"
@@ -22,7 +27,7 @@
     "icon": "icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/CarlesRojas/pinya-theme.git"
+        "url": "https://github.com/CarlesRojas/pinya-theme"
     },
     "contributes": {
         "themes": [

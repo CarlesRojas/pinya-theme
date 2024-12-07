@@ -1,7 +1,5 @@
 # Pinya Theme
 
-<img src="icon.png" width="64"/>
-
 ![Pinya Theme](PinyaTheme.png)
 
 ## Install
