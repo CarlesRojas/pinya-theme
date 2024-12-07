@@ -95,7 +95,7 @@
             "name": "regexp constant character-class",
             "scope": "constant.other.character-class.regexp",
             "settings": {
-                "foreground": "#ababab"
+                "foreground": "#FFBF69"
             }
         },
         {
@@ -200,7 +200,7 @@
             "name": "js/ts variable.other.constant",
             "scope": "variable.other.constant",
             "settings": {
-                "foreground": "#e3e3e3"
+                "foreground": "#FFBF69"
             }
         },
         {
@@ -542,7 +542,7 @@
             "name": "Variables",
             "scope": "variable",
             "settings": {
-                "foreground": "#ababab"
+                "foreground": "#e3e3e3"
             }
         },
         {
@@ -605,7 +605,7 @@
             "name": "Classes",
             "scope": "support.class, entity.name.type.class",
             "settings": {
-                "foreground": "#e3e3e3"
+                "foreground": "#FFBF69"
             }
         },
         {
@@ -738,7 +738,7 @@
             "name": "Constant other symbol",
             "scope": "constant.other.symbol",
             "settings": {
-                "foreground": "#FA824C"
+                "foreground": "#FFBF69"
             }
         },
         {
@@ -789,7 +789,7 @@
             "scope": "entity.other.attribute-name.class.css",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#9FD356"
+                "foreground": "#e3e3e3"
             }
         },
         {
@@ -1633,7 +1633,7 @@
             "name": "language operators like '+', '-' etc",
             "scope": ["constant.other.color.rgb-value.xi"],
             "settings": {
-                "foreground": "#ffffff"
+                "foreground": "#FFBF69"
             }
         },
         {
