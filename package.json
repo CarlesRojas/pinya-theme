@@ -1,6 +1,7 @@
 {
     "name": "pinya-theme",
     "displayName": "Pinya Theme",
+    "publisher": "pinya",
     "description": "Sleek and minimalistic dark theme",
     "version": "0.0.1",
     "engines": {
@@ -9,6 +10,16 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "theme",
+        "dark",
+        "sleek",
+        "minimalistic",
+        "pop",
+        "contrast",
+        "pinya"
+    ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
