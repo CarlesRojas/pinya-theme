@@ -4,13 +4,16 @@
     "semanticHighlighting": true,
     "semanticTokenColors": {
         "enumMember": {
-            "foreground": "#FA824C"
+            "foreground": "#FFBF69"
         },
         "variable.constant": {
             "foreground": "#9FD356"
         },
         "variable.defaultLibrary": {
             "foreground": "#e3e3e3"
+        },
+        "builtinConstant": {
+            "foreground": "#FFBF69" // This will handle Python built-in constants like None, True, False
         }
     },
     "tokenColors": [
@@ -789,7 +792,7 @@
             "scope": "entity.other.attribute-name.class.css",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#e3e3e3"
+                "foreground": "#FFBF69"
             }
         },
         {
@@ -1038,14 +1041,14 @@
             "name": "[VSCODE-CUSTOM] JSON Property Name",
             "scope": "support.type.property-name.json",
             "settings": {
-                "foreground": "#e3e3e3"
+                "foreground": "#FFBF69"
             }
         },
         {
             "name": "[VSCODE-CUSTOM] JSON Punctuation for Property Name",
             "scope": "support.type.property-name.json punctuation",
             "settings": {
-                "foreground": "#e3e3e3"
+                "foreground": "#FFBF69"
             }
         },
         {
@@ -1933,18 +1936,18 @@
         "editorHoverWidget.foreground": "#cccccc",
         "editorHoverWidget.background": "#040404",
         "editorHoverWidget.border": "#80808059",
-        "peekView.border": "#ffffff6c",
+        "peekView.border": "#ffffff8b",
         "peekViewEditor.background": "#040404",
         "peekViewEditorGutter.background": "#040404",
-        "peekViewEditor.matchHighlightBackground": "#ff8f0026",
-        "peekViewEditor.matchHighlightBorder": "#512e00",
+        "peekViewEditor.matchHighlightBackground": "#ffffff26",
+        "peekViewEditor.matchHighlightBorder": "#727272",
         "peekViewResult.background": "#191919",
         "peekViewResult.fileForeground": "#ffffff",
-        "peekViewResult.lineForeground": "#bbbbbb",
-        "peekViewResult.matchHighlightBackground": "#9f40024d",
+        "peekViewResult.lineForeground": "#787878",
+        "peekViewResult.matchHighlightBackground": "#90909000",
         "peekViewResult.selectionBackground": "#90909033",
         "peekViewResult.selectionForeground": "#ffffff",
-        "peekViewTitle.background": "#1e1e1e",
+        "peekViewTitle.background": "#191919",
         "peekViewTitleDescription.foreground": "#ccccccb3",
         "peekViewTitleLabel.foreground": "#ffffff",
         "icon.foreground": "#cccccc",
